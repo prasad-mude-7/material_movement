@@ -43,9 +43,9 @@ After allotting empty rack in above order the fork lift user will go at that loc
 
 ### Primary_storage collection structure
 
-This collection has specific SKU/ITEM detail with stock and unit of measurement:
-rack allotment is irrespective of material, keeping all material as it comes 
-Primary_storage collection have detail of each material stacked
+This collection has specific SKU/ITEM detail with stock and unit of measurement.
+rack allotment is irrespective of material, keeping all material as it comes. 
+Primary_storage collection have detail of each material stacked.
 
 ```json
 {
