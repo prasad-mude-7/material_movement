@@ -78,7 +78,7 @@ R1L1A1  R1L1A2  R1L1A3   R1L1A4   R1L1A5  R1L1A6     R1L1A7    R1L1A8  R1L1A9
 So it will be like:
 R1L1A1, R1L1A2, R1L1A3, R1L2B1, R1L2B2, R1L2B3, R1L1A4, R1L1A5, R1L1A6 and so on…
 
-## example rack example 
+## ex rack image 
 
 ![Rack Image](./rack.jpg)
 
