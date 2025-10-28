@@ -9,7 +9,6 @@ We used this collection to identify rack availability and get empty rack.
 ### Model structure
 
 Created all available rack entries in rack_master_table collection in following way:
-rack allotment is irrespective of material, keeping all material as it comes
 
 ```json
 {
@@ -45,6 +44,8 @@ After allotting empty rack in above order the fork lift user will go at that loc
 ### Primary_storage collection structure
 
 This collection has specific SKU/ITEM detail with stock and unit of measurement:
+rack allotment is irrespective of material, keeping all material as it comes 
+Primary_storage collection have detail of each material stacked
 
 ```json
 {
