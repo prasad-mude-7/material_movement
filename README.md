@@ -9,6 +9,7 @@ We used this collection to identify rack availability and get empty rack.
 ### Model structure
 
 Created all available rack entries in rack_master_table collection in following way:
+rack allotment is irrespective of material, keeping all material as it comes
 
 ```json
 {
