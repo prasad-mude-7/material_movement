@@ -1,0 +1,164 @@
+[
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 1,
+    "rack_id": "R1",
+    "level_id": "L2",
+    "column_id": "B1",
+    "location_id": "R1L2B1",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 1,
+    "rack_id": "R1",
+    "level_id": "L2",
+    "column_id": "B2",
+    "location_id": "R1L2B2",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 1,
+    "rack_id": "R1",
+    "level_id": "L2",
+    "column_id": "B3",
+    "location_id": "R1L2B3",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 1,
+    "rack_id": "R1",
+    "level_id": "L1",
+    "column_id": "A1",
+    "location_id": "R1L1A1",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 1,
+    "rack_id": "R1",
+    "level_id": "L1",
+    "column_id": "A2",
+    "location_id": "R1L1A2",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 1,
+    "rack_id": "R1",
+    "level_id": "L1",
+    "column_id": "A3",
+    "location_id": "R1L1A3",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 2,
+    "rack_id": "R1",
+    "level_id": "L2",
+    "column_id": "B4",
+    "location_id": "R1L2B4",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 2,
+    "rack_id": "R1",
+    "level_id": "L2",
+    "column_id": "B5",
+    "location_id": "R1L2B5",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 2,
+    "rack_id": "R1",
+    "level_id": "L2",
+    "column_id": "B6",
+    "location_id": "R1L2B6",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 2,
+    "rack_id": "R1",
+    "level_id": "L1",
+    "column_id": "A4",
+    "location_id": "R1L1A4",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 2,
+    "rack_id": "R1",
+    "level_id": "L1",
+    "column_id": "A5",
+    "location_id": "R1L1A5",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 2,
+    "rack_id": "R1",
+    "level_id": "L1",
+    "column_id": "A6",
+    "location_id": "R1L1A6",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 3,
+    "rack_id": "R1",
+    "level_id": "L2",
+    "column_id": "B4",
+    "location_id": "R1L2B4",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 3,
+    "rack_id": "R1",
+    "level_id": "L2",
+    "column_id": "B5",
+    "location_id": "R1L2B5",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 3,
+    "rack_id": "R1",
+    "level_id": "L2",
+    "column_id": "B6",
+    "location_id": "R1L2B6",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 3,
+    "rack_id": "R1",
+    "level_id": "L1",
+    "column_id": "A7",
+    "location_id": "R1L1A7",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 3,
+    "rack_id": "R1",
+    "level_id": "L1",
+    "column_id": "A8",
+    "location_id": "R1L1A8",
+    "status": "unoccupied"
+  },
+  {
+    "plant_id": "prasad_dc",
+    "unit_no": 3,
+    "rack_id": "R1",
+    "level_id": "L1",
+    "column_id": "A9",
+    "location_id": "R1L1A9",
+    "status": "unoccupied"
+  }
+]
